@@ -38,7 +38,7 @@ export const data = {
     labels,
     datasets: [
         {
-            label: 'Dataset 1',
+            label: 'яблоки',
             data: [39, 56, 86, 90, 87, 56, 55],
             backgroundColor: 'red',
         },
