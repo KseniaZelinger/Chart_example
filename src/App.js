@@ -4,6 +4,7 @@ import Chart from './components/Line_chart';
 import Vertical_chart from './components/Vertical_chart';
 import Horizontal_chart from './components/Horizontal_chart';
 import Aria_chart from './components/Area_chart';
+import Vertical2_chart from './components/Vertical2_chart'
 
 function App() {
   const dataServer1 = [
@@ -75,6 +76,7 @@ function App() {
         <Vertical_chart />
         <Horizontal_chart />
         <Aria_chart />
+        <Vertical2_chart />
       </div>
     </div>
   );
