@@ -43,7 +43,7 @@ export const data = {
             backgroundColor: 'red',
         },
         {
-            label: 'Dataset 2',
+            label: 'бананы',
             data: [56, 84, 98, 34, 66, 78, 51],
             backgroundColor: 'green',
         },
