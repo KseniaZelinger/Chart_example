@@ -44,7 +44,7 @@ export const data = {
         },
         {
             label: 'бананы',
-            data: [56, 84, 98, 34, 66, 78, 205],
+            data: [156, 84, 98, 34, 66, 78, 205],
             backgroundColor: 'green',
         },
     ],
